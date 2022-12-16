@@ -1,0 +1,21 @@
+hr{
+  border-style: none;
+  background-color: white;;
+  height: 3px;
+  width: 50%;
+}
+ul{
+  background-color: #AAC4FF;
+}
+body{
+  background-color:#DFF6FF;
+  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hotcoursesabroad.com%2Fstudy-abroad-info%2Fsubject-guides%2Fwhat-to-expect-when-studying-computer-science%2F&psig=AOvVaw1cEwb28rAOJ45_UFj7XpP6&ust=1664671155878000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMi607rlvfoCFQAAAAAdAAAAABAD');
+}
+h1{
+  color: #16213E;
+  background-color: #97D2EC
+}
+h3{
+  color: #16213E;
+  background-color: #97D2EC
+}
